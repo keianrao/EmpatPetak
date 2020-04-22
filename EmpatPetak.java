@@ -172,6 +172,10 @@ private void initTextAreas() {
 	textAreaTR.setLineWrap(true);
 	textAreaBL.setLineWrap(true);
 	textAreaBR.setLineWrap(true);
+	textAreaTL.setWrapStyleWord(true);
+	textAreaTR.setWrapStyleWord(true);
+	textAreaBL.setWrapStyleWord(true);
+	textAreaBR.setWrapStyleWord(true);
 	
 	textAreaTL.setOpaque(false);
 	textAreaTR.setOpaque(false);
