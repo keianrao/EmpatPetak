@@ -15,3 +15,15 @@ This is implemented in Java Swing. It's an okay example of how to use Swing comp
 It is not written in a professional manner. It's one big file containing everything (actually, the program itself is a monolithic object with no public interaction - the only thing you can do is start it up through #main or pass it events). It's not tested, nor scrutinised for security. It has hardcoded settings. And it doesn't have much features..
 
 Thank you for your forgiveness.
+
+# Using
+
+To use this program, you have to compile it.
+You can create an Issue if you'd like me to create a JAR file for you.
+
+# Compiling
+
+This program has no dependencies aside from a non-headless JDK.
+
+    $ javac EmpatPetak.java
+    $ java EmpatPetak
