@@ -21,9 +21,12 @@ Thank you for your forgiveness.
 To use this program, you have to compile it.
 You can create an Issue if you'd like me to create a JAR file for you.
 
+![Another screenshot of program, alongside how the loaded textfile looks in a regular text editor. Each of the four boxes' contents are separated by double-percents.](screenshot2.jpg)
+
 # Compiling
 
 This program has no dependencies aside from a non-headless JDK.
 
     $ javac EmpatPetak.java
     $ java EmpatPetak
+
